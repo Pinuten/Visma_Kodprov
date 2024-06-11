@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "VismaSpcs.Recruitment.Rest/1.0.0": {
+        "runtime": {
+          "VismaSpcs.Recruitment.Rest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VismaSpcs.Recruitment.Rest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
