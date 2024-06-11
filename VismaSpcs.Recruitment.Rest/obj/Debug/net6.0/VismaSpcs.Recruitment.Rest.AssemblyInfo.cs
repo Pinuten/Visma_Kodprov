@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VismaSpcs.Recruitment.Rest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed179d1d580c0a5281f2f0ac4816775f38e98204")]
 [assembly: System.Reflection.AssemblyProductAttribute("VismaSpcs.Recruitment.Rest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VismaSpcs.Recruitment.Rest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

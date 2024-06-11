@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/salt-dev/Downloads/VismaSpcs.Recruitment.Rest/VismaSpcs.Recruitment.Rest.csproj",
+      "projectUniqueName": "/Users/salt-dev/Salt/Visma_Kodprov/VismaSpcs.Recruitment.Rest/VismaSpcs.Recruitment.Rest.csproj",
       "projectName": "VismaSpcs.Recruitment.Rest",
-      "projectPath": "/Users/salt-dev/Downloads/VismaSpcs.Recruitment.Rest/VismaSpcs.Recruitment.Rest.csproj",
+      "projectPath": "/Users/salt-dev/Salt/Visma_Kodprov/VismaSpcs.Recruitment.Rest/VismaSpcs.Recruitment.Rest.csproj",
       "packagesPath": "/Users/salt-dev/.nuget/packages/",
-      "outputPath": "/Users/salt-dev/Downloads/VismaSpcs.Recruitment.Rest/obj/",
+      "outputPath": "/Users/salt-dev/Salt/Visma_Kodprov/VismaSpcs.Recruitment.Rest/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/salt-dev/.nuget/NuGet/NuGet.Config"

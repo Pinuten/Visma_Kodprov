@@ -1,18 +1,33 @@
 ﻿using System;
-using System.Text;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace VismaSpcs.Recruitment.Rest
 {
-    internal static class PrettyPrinter
+    public class PrettyPrinter
     {
-        /// <summary>
-        /// Takes an object and print it "nicely" in the console.
-        /// </summary>
-        /// <typeparam name="T">Defined type, should NOT be object.</typeparam>
-        /// <param name="input">Object to print</param>
-        public static void Print<T>(T input)
+        public void Print(List<WeatherData> weatherData)
         {
+            if (weatherData == null || !weatherData.Any())
+            {
+                Console.WriteLine("No data available.");
+                return;
+            }
 
+            foreach (var data in weatherData)
+            {
+                if (data?.Parameters == null) continue;
+
+                var tempParam = data.Parameters.FirstOrDefault(p => p.Name == "t");
+                var windParam = data.Parameters.FirstOrDefault(p => p.Name == "ws");
+
+                if (tempParam != null && windParam != null)
+                {
+                    double temp = tempParam.Values.FirstOrDefault();
+                    double windSpeed = windParam.Values.FirstOrDefault();
+                    Console.WriteLine($"Time: {data.ValidTime}, Temperature: {temp}°C, Wind Speed: {windSpeed} m/s");
+                }
+            }
         }
     }
 }

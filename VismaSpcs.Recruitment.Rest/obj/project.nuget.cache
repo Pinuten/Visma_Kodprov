@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HE6pv32yxTrLDdimMrlCB+ofxMmLH99AnL24S3bRhbq1CAPdzjYxsdrX9VgMNvDf/TGURZ2JV6GnWErlnH7uvA==",
+  "dgSpecHash": "LcIJvaUhJ8nE1Spc4ZzNlTqWScS+QDJCh7uuRqGHcvOVCnKmRfRDevfWw75R+8xn/IOnJv0D1xhgtiRGMKbhYQ==",
   "success": true,
-  "projectFilePath": "/Users/salt-dev/Downloads/VismaSpcs.Recruitment.Rest/VismaSpcs.Recruitment.Rest.csproj",
+  "projectFilePath": "/Users/salt-dev/Salt/Visma_Kodprov/VismaSpcs.Recruitment.Rest/VismaSpcs.Recruitment.Rest.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

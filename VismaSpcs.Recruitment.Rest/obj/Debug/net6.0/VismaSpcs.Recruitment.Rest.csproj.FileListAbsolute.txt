@@ -1,0 +1,15 @@
+/Users/salt-dev/Salt/Visma_Kodprov/VismaSpcs.Recruitment.Rest/bin/Debug/net6.0/VismaSpcs.Recruitment.Rest
+/Users/salt-dev/Salt/Visma_Kodprov/VismaSpcs.Recruitment.Rest/bin/Debug/net6.0/VismaSpcs.Recruitment.Rest.deps.json
+/Users/salt-dev/Salt/Visma_Kodprov/VismaSpcs.Recruitment.Rest/bin/Debug/net6.0/VismaSpcs.Recruitment.Rest.runtimeconfig.json
+/Users/salt-dev/Salt/Visma_Kodprov/VismaSpcs.Recruitment.Rest/bin/Debug/net6.0/VismaSpcs.Recruitment.Rest.dll
+/Users/salt-dev/Salt/Visma_Kodprov/VismaSpcs.Recruitment.Rest/bin/Debug/net6.0/VismaSpcs.Recruitment.Rest.pdb
+/Users/salt-dev/Salt/Visma_Kodprov/VismaSpcs.Recruitment.Rest/obj/Debug/net6.0/VismaSpcs.Recruitment.Rest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salt-dev/Salt/Visma_Kodprov/VismaSpcs.Recruitment.Rest/obj/Debug/net6.0/VismaSpcs.Recruitment.Rest.AssemblyInfoInputs.cache
+/Users/salt-dev/Salt/Visma_Kodprov/VismaSpcs.Recruitment.Rest/obj/Debug/net6.0/VismaSpcs.Recruitment.Rest.AssemblyInfo.cs
+/Users/salt-dev/Salt/Visma_Kodprov/VismaSpcs.Recruitment.Rest/obj/Debug/net6.0/VismaSpcs.Recruitment.Rest.csproj.CoreCompileInputs.cache
+/Users/salt-dev/Salt/Visma_Kodprov/VismaSpcs.Recruitment.Rest/obj/Debug/net6.0/VismaSpcs.Recruitment.Rest.sourcelink.json
+/Users/salt-dev/Salt/Visma_Kodprov/VismaSpcs.Recruitment.Rest/obj/Debug/net6.0/VismaSpcs.Recruitment.Rest.dll
+/Users/salt-dev/Salt/Visma_Kodprov/VismaSpcs.Recruitment.Rest/obj/Debug/net6.0/refint/VismaSpcs.Recruitment.Rest.dll
+/Users/salt-dev/Salt/Visma_Kodprov/VismaSpcs.Recruitment.Rest/obj/Debug/net6.0/VismaSpcs.Recruitment.Rest.pdb
+/Users/salt-dev/Salt/Visma_Kodprov/VismaSpcs.Recruitment.Rest/obj/Debug/net6.0/VismaSpcs.Recruitment.Rest.genruntimeconfig.cache
+/Users/salt-dev/Salt/Visma_Kodprov/VismaSpcs.Recruitment.Rest/obj/Debug/net6.0/ref/VismaSpcs.Recruitment.Rest.dll
