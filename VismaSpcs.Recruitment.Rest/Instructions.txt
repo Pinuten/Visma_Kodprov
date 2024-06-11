@@ -1,0 +1,30 @@
+﻿
+
+Task description:
+	
+	Implement both ApiClient and PrettyPrinter. ApiClient should be used to retrieve the object from a REST-api 
+		and PrettyPrinter to print it out. 
+
+
+Code Requirements:
+
+	1. Use a REST-api.
+	2. Program.cs should not be altered besides changing type according to comments.
+	3. If the api allow filtering and/or limit of the result, filter on at least one attribute and fetch first 10 records.
+	4. Printed object(s) must contains 2+ variables and all shall be printed.
+	5. The algorithm should be efficient.
+	6. The code should be maintainable.
+
+
+ Note:
+
+	1. Use whatever API you like, here are some examples:
+		- https://skatteverket.entryscape.net/rowstore/dataset/c67b320b-ffee-4876-b073-dd9236cd2a99/html (Taxes, Skatteverket)
+		- https://konsumentverket.entryscape.net/rowstore/dataset/ee53f020-2d4a-4a77-bffd-2b940dec5589/html (Consumers and environment, Konsumentverket)
+		- Other (swedish) resources could be found here -> https://www.dataportal.se/sv
+	2. Make sure it is a free public api (open data)
+
+
+ Submit:
+
+	Submit your solution at least 24h before the interview.
