@@ -102,3 +102,5 @@
 /Users/salt-dev/Salt/Visma/Visma.Tests/obj/Debug/net8.0/Visma.Tests.pdb
 /Users/salt-dev/Salt/Visma/Visma.Tests/obj/Debug/net8.0/Visma.Tests.genruntimeconfig.cache
 /Users/salt-dev/Salt/Visma/Visma.Tests/obj/Debug/net8.0/ref/Visma.Tests.dll
+/Users/salt-dev/Salt/Visma/Visma.Tests/obj/Debug/net8.0/Visma.Tests.sourcelink.json
+/Users/salt-dev/Salt/Visma/Visma.Tests/bin/Debug/net8.0/RichardSzalay.MockHttp.dll
