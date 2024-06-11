@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Visma.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc5507adf503e53f2848641dc4678cfe8edb43de")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c737e8cb938e32d52104806b0803b4c2fc95c9b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Visma.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Visma.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
