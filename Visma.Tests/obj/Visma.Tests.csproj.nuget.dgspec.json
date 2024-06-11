@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/salt-dev/Salt/Visma/Visma.Tests/Visma.Tests.csproj": {}
+    "/Users/salt-dev/Salt/Visma_Kodprov/Visma.Tests/Visma.Tests.csproj": {}
   },
   "projects": {
-    "/Users/salt-dev/Salt/Visma/Visma.Tests/Visma.Tests.csproj": {
+    "/Users/salt-dev/Salt/Visma_Kodprov/Visma.Tests/Visma.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/salt-dev/Salt/Visma/Visma.Tests/Visma.Tests.csproj",
+        "projectUniqueName": "/Users/salt-dev/Salt/Visma_Kodprov/Visma.Tests/Visma.Tests.csproj",
         "projectName": "Visma.Tests",
-        "projectPath": "/Users/salt-dev/Salt/Visma/Visma.Tests/Visma.Tests.csproj",
+        "projectPath": "/Users/salt-dev/Salt/Visma_Kodprov/Visma.Tests/Visma.Tests.csproj",
         "packagesPath": "/Users/salt-dev/.nuget/packages/",
-        "outputPath": "/Users/salt-dev/Salt/Visma/Visma.Tests/obj/",
+        "outputPath": "/Users/salt-dev/Salt/Visma_Kodprov/Visma.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/salt-dev/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/salt-dev/Salt/Visma/VismaSpcs.Recruitment.Rest/VismaSpcs.Recruitment.Rest.csproj": {
-                "projectPath": "/Users/salt-dev/Salt/Visma/VismaSpcs.Recruitment.Rest/VismaSpcs.Recruitment.Rest.csproj"
+              "/Users/salt-dev/Salt/Visma_Kodprov/VismaSpcs.Recruitment.Rest/VismaSpcs.Recruitment.Rest.csproj": {
+                "projectPath": "/Users/salt-dev/Salt/Visma_Kodprov/VismaSpcs.Recruitment.Rest/VismaSpcs.Recruitment.Rest.csproj"
               }
             }
           }
@@ -88,14 +88,14 @@
         }
       }
     },
-    "/Users/salt-dev/Salt/Visma/VismaSpcs.Recruitment.Rest/VismaSpcs.Recruitment.Rest.csproj": {
+    "/Users/salt-dev/Salt/Visma_Kodprov/VismaSpcs.Recruitment.Rest/VismaSpcs.Recruitment.Rest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/salt-dev/Salt/Visma/VismaSpcs.Recruitment.Rest/VismaSpcs.Recruitment.Rest.csproj",
+        "projectUniqueName": "/Users/salt-dev/Salt/Visma_Kodprov/VismaSpcs.Recruitment.Rest/VismaSpcs.Recruitment.Rest.csproj",
         "projectName": "VismaSpcs.Recruitment.Rest",
-        "projectPath": "/Users/salt-dev/Salt/Visma/VismaSpcs.Recruitment.Rest/VismaSpcs.Recruitment.Rest.csproj",
+        "projectPath": "/Users/salt-dev/Salt/Visma_Kodprov/VismaSpcs.Recruitment.Rest/VismaSpcs.Recruitment.Rest.csproj",
         "packagesPath": "/Users/salt-dev/.nuget/packages/",
-        "outputPath": "/Users/salt-dev/Salt/Visma/VismaSpcs.Recruitment.Rest/obj/",
+        "outputPath": "/Users/salt-dev/Salt/Visma_Kodprov/VismaSpcs.Recruitment.Rest/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/salt-dev/.nuget/NuGet/NuGet.Config"
