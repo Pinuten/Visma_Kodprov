@@ -15,7 +15,7 @@ dotnet test
 
 ## Task Description
 
-ApiClient: Used to retrieve objects from a REST API.
+ApiClient: Used to retrieve objects from a REST-API.
 PrettyPrinter: Used to format and print the fetched objects.
 
 ## Implementation
