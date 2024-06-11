@@ -12,3 +12,23 @@ To run the tests, cd into Visma.Tests and run:
 ```bash
 dotnet test
 ```
+
+## Task Description
+
+ApiClient: Used to retrieve objects from a REST API.
+PrettyPrinter: Used to format and print the fetched objects.
+
+## Implementation
+
+### ApiClient.cs
+This class fetches weather data from the SMHI API, filters it based on a parameter, and limits the results to the first 10 records.
+
+### PrettyPrinter.cs
+This class formats and prints the fetched weather data, displaying the time, temperature, and wind speed.
+
+### Program.cs
+The Main method initializes the ApiClient and PrettyPrinter, fetches the data based on user input, and prints the results.
+
+### Visma.Tests
+
+Tests where added for both the ApiClient and PrettyPrinter to ensure functionality and correct output. 
